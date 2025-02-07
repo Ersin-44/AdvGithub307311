@@ -22,6 +22,8 @@ public class MyClass {
 
 
 
-        //github değişiklik
+
+        //dev branchinde değişiklik
+
     }
 }
